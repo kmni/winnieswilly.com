@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <!-- TemplateBeginEditable name="title" -->
+    <title>Winnies Willy</title>
+    <!-- TemplateEndEditable -->
+<meta charset="utf-8" />
+        <meta name="description" content="">
+		<meta name="keywords" content="Winnies Willy, quarter horse, breeding">
+        <link rel="icon" href="http://www.winnieswilly.com/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="http://www.winnieswilly.com/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="../style.css" type="text/css" media="screen" />
+        <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="../assets/js/theme.js"></script>
+        <script type="text/javascript" src="../assets/js/rounded.js"></script>
+        <!--[if IE 7]><link rel="stylesheet" href="assets/css/ie/ie7.css" type="text/css" media="screen"><![endif]-->
+        <!--[if lt IE 7]><link rel="stylesheet" href="assets/css/ie/ie6.css" type="text/css" media="screen"><![endif]-->
+        <!--[if lt IE 6]><script type="text/javascript">DD_roundies.addRule('.pngfix');</script><![endif]-->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22883264-49']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+    <body>
+        <div id="main-body">
+        <div id="wrapper">
+            <div id="header">
+                <div id="nav-header">
+                    <div id="logo" class="floatleft">
+                        <a href="../index.html" title=""><img src="../assets/images/logo.png" alt="" width="261" height="142" /></a>
+              </div>
+                    
+                    <div id="navigation" class="floatright">
+                        <ul>
+                            <li><a href="../about-winnies-willy/index.html" title="">About Winnies Willy</a></li>
+                            <li><a href="../foal-showcase/2013.html" title="">Foal Showcase</a></li>
+                            <li><a href="../contracts/index.html" title="">Contracts</a></li>
+                            <li><a href="http://www.pineviewfarmsoh.com/" target="_blank" title="">Pine View Farms</a></li>
+                            <li><a href="../contact-us/index.html" title="">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+        </div><!--/wrapper  -->
+        
+</div><!--/main-body  -->
+        <!-- TemplateBeginEditable name="content" -->
+        <div id="content-mares">
+          <div id="header-content-mares" class="">
+            <h2>Our Mares</h2>
+            
+            <div id="post-block">
+              <h2>Gotta Love Em Lazy</h2>
+              <div id="post-one" class="floatleft" > <img src="../assets/images/mares-horse-1.jpg" alt="" /> </div>
+              <div id="post-two" class="floatleft">
+                <iframe width="320" height="250" src="http://www.youtube.com/embed/nhOo1ZtrH8c" frameborder="0" allowfullscreen></iframe>
+              </div>
+              <div id="caption" class="floatleft">
+                <p> Half sister to ONLY BECAUSE IM GOOD Congress Top Five, Congress Top Ten, Reichert Celebration </p>
+              </div>
+            </div>
+            <!--/post-block  -->
+            
+            <div id="post-block-two">
+              <div id="post-block-duo" class="">
+                <h2>Only So Good</h2>
+                <a href="#" title=""><img src="../assets/images/mares-horse-3.jpg" alt="" /></a>
+                <div id="caption2" class="floatleft">
+                  <p> Dam is full sister to Chex Are Good, producer of CHEX OUT MY LOPE Southern Belle Futurity Champion, World Show Qualifier and Reichert Top Ten. </p>
+                </div>
+              </div>
+              <!--/post-block-duo  -->
+              <div id="post-block-duo" class="margin-left">
+                <h2>Only Gotta Ask</h2>
+                <a href="#" title=""><img src="../assets/images/mares-horse-4.jpg" alt="" /></a>
+                <div id="caption2" class="floatleft">
+                  <p> Half brother to Congress Top Tens, Performance ROMs, earners of over 270 points and out of a Congress Top Ten placer and AQHA High Point Top Five. </p>
+                </div>
+              </div>
+              <!--/post-block-duo  -->
+            </div>
+            
+            <div id="post-block" class="">
+              <h2>Ill Make Ya Hot</h2>
+              <div id="post-one" class="floatleft" > <img src="../assets/images/mares-horse-2.jpg" alt="" /> </div>
+              <div id="post-two" class="floatleft">
+                <iframe width="320" height="250" src="http://www.youtube.com/embed/nhOo1ZtrH8c" frameborder="0" allowfullscreen></iframe>
+              </div>
+              <div id="caption" class="floatleft">
+                <p> Out of a World Show Qualifier and Performance ROM earner. </p>
+              </div>
+            </div>
+            <!--/post-block  -->
+            
+          </div>
+        </div>
+        <!-- TemplateEndEditable -->
+        <div id="footer" class="mares-footer">
+<div id="footer-nav">
+    <ul>
+                            <li><a href="../about-winnies-willy/index.html" title="">About Winnies Willy</a></li>
+                            <li><a href="../foal-showcase/2012.html" title="">Foal Showcase</a></li>
+                            <li><a href="../contracts/index.html" title="">Contracts</a></li>
+                            <li><a href="http://www.pineviewfarmsoh.com/" target="_blank" title="">Pine View Farms</a></li>
+                            <li><a href="../contact-us/index.html" title="">Contact Us</a></li>
+</ul>
+        <p>&copy; 2012 Winnies Willy- All Rights Reserved |<a href="http://www.qhorse.com" target="_blank"> Designed by Qhorse.com</a></p>
+                <div class="sponsors">
+                <a href="http://www.gohorseshow.com/" target="_blank"><img src="../assets/images/links/gohorseshow.jpg" width="165" height="51"></a>
+                <a href="http://www.pleasurehorse.com/" target="_blank"><img src="../assets/images/links/pleasure-horse.jpg" width="94" height="51"></a>
+                <a href="http://www.pineviewfarmsoh.com" target="_blank"><img src="../assets/images/links/pine-view.jpg" width="128" height="51"></a>
+                <a href="http://www.lazyloper.com/" target="_blank"><img src="../assets/images/links/lazy-loper.jpg" width="119" height="51"></a>
+                <a href="http://www.invitationonlyllc.com/" target="_blank"><img src="../assets/images/links/invitation-only.jpg" width="128" height="51"></a>
+                </div>
+    </div>
+    </div>
+        
+    </body>
+</html>

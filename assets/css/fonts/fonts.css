@@ -1,0 +1,43 @@
+/***************************************************************************
+ * @Author: NetChillies - PepUp The Web!
+ * @Website: http://www.netchillies.com/
+ * @Contact: http://www.netchillies.com/contact
+ * @Privacy Policy & Terms of Use: http://www.netchillies.com/terms
+ * @License Info: http://www.netchillies.com/license
+ ***************************************************************************/
+
+@font-face {
+    font-family: 'AmazeNormal';
+    src: url('amaze-webfont.eot');
+    src: url('amaze-webfont.eot?#iefix') format('embedded-opentype'),
+         url('amaze-webfont.woff') format('woff'),
+         url('amaze-webfont.ttf') format('truetype'),
+         url('amaze-webfont.svg#AmazeNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MoolBoranRegular';
+    src: url('moolbor-webfont.eot');
+    src: url('moolbor-webfont.eot?#iefix') format('embedded-opentype'),
+         url('moolbor-webfont.woff') format('woff'),
+         url('moolbor-webfont.ttf') format('truetype'),
+         url('moolbor-webfont.svg#MoolBoranRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SegoeScriptBold';
+    src: url('segoescb-webfont.eot');
+    src: url('segoescb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('segoescb-webfont.woff') format('woff'),
+         url('segoescb-webfont.ttf') format('truetype'),
+         url('segoescb-webfont.svg#SegoeScriptBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

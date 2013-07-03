@@ -1,0 +1,262 @@
+/***************************************************************************
+ * @Author: NetChillies - PepUp The Web!
+ * @Website: http://www.netchillies.com/
+ * @Contact: http://www.netchillies.com/contact
+ * @Privacy Policy & Terms of Use: http://www.netchillies.com/terms
+ * @License Info: http://www.netchillies.com/license
+ ***************************************************************************/
+body{
+    font: normal 11pt "Arial";
+    background: #32170e;
+}
+#main-body{
+    margin: 0 auto;
+    width: 1024px;
+    height: 616px;
+}
+#wrapper{
+    width: 1024px;
+    height: 616px;
+    background: url(../images/background-foal.jpg) no-repeat;
+    position: absolute;
+}
+#nav-header{
+    height: 77px;
+    background: url(../images/nav-bg.png) no-repeat;
+    margin: 68px 0px 0px 0px;
+    position: relative;
+    z-index: 2;
+}
+#logo{
+    width: 378px;
+    height: 141px;
+    position: relative;
+    left: 38px;
+    top: 8px;
+    z-index: 2;
+}
+#navigation{
+    font-family: "MoolBoranRegular";
+	font-size: 20px;
+    padding-top: 25px;
+    padding-right: 35px;
+}
+#navigation ul li{
+    display: inline;
+    list-style: none;
+    margin-left: 30px;
+}
+#navigation ul li a{
+    color: #fff;
+}
+#header-content{
+    width: 500px;
+    height: 200px;
+    margin: 280px 0 0 35px;
+    font-family: "AmazeNormal";
+    font-size: 40px;
+    line-height: 1.1;
+    color: #FFF;
+    text-shadow: 1px 1px 5px #000;
+}
+#content{
+    width: 1024px;
+    margin: 0 auto;
+    height: 450px;
+    background: url(../images/content-bg.jpg) repeat #333;
+}
+#content h2{
+    font-family: 'AmazeNormal';
+    color: #fff;
+    font-size: 40px;
+    font-weight: normal;
+    text-shadow: 1px 1px 5px #000;
+}
+#content-one{
+    margin-left: 20px;
+    width: 480px;
+}
+#content-one img{
+    padding: 1px;
+}
+#content-two{
+    width: 500px;
+}
+#content-two p{
+    font-family: Arial;
+    font-size: 12px;
+    color: #fff;
+}
+#footer{
+    margin: 0 auto;
+    width: 1024px;
+    height: 150px;
+    background: #000;
+	position: relative;
+	top: -480px;
+}
+/*.mares-footer{
+    margin-top: 100px !important;
+} */
+#footer-nav{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "MoolBoranRegular";
+    font-size: 20px;
+    padding-top: 30px;
+}
+#footer ul{
+}
+#footer-nav ul li{
+    display: inline;
+    list-style: none;
+    margin-left: 30px;
+}
+#footer ul li a{
+    color: #fff;
+}
+#footer p{
+    color: #562a14;
+    font-size: 10pt;
+    margin-top: 10px;
+}
+
+/*OUR MARES PAGE*/
+
+#content-mares{
+    width: 1024px;
+    margin: 0 auto;
+    position: relative;
+    color: #fff;
+}
+#header-content-mares{
+    width: 954px;
+    background: url(../images/our-mares-bg.jpg);
+    position: relative;
+    top: -480px;
+    padding: 35px;
+	min-height: 310px;
+}
+#header-content-mares h2{
+    font-family: "MoolBoranRegular";
+    font-size: 40px;
+    font-weight: normal;
+    text-shadow: 1px 1px 5px #000;
+}
+#post-block{
+    width: 805px;
+    min-height: 344px;
+    background: url(../images/post-block-bg.png) repeat;
+    margin: 30px 0 0 55px;
+    border-radius: 10px;
+	position: relative;
+	display: table;
+	padding: 0 20px 20px 0;
+}
+#post-block h2, #post-block-duo h2{
+    font-family: "SegoeScriptBold";
+    font-size: 24px;
+    text-shadow: 1px 1px 1px #000;
+    position: relative;
+    left:30px;
+    top:-18px;
+}
+#post-one{
+    width: 320px;
+}
+#post-two{
+    width: 320px;
+    margin-left: 110px;
+}
+#caption{
+    padding: 5px 0px 0px 42px;
+    font-size:12px;
+    font-family: Arial;
+	clear: left;
+}
+#post-block img{
+    margin-left:42px;
+}
+#post-block-two{
+    width: 845px;
+    height: 344px;
+	position: relative;	
+    margin: 40px 0px 60px 55px;
+	clear:both;
+}
+#post-block-duo{
+    float: left;
+	margin: 0 20px 30px 0;
+    width: 402px;
+    min-height: 364px;
+	padding-bottom: 10px;	
+    background: url(../images/post-block-bg.png) repeat;
+    border-radius: 10px;
+}
+#post-block-duo iframe {
+	padding-left: 24px;
+}
+#post-block-duo img{
+    margin: 0px 0px 0px 42px;
+}
+#post-block-duo img{
+    margin: 0px 0px 0px 42px;
+}
+.margin-left{
+    margin-left: 9px;
+}
+#caption2{
+    padding: 10px 0px 0px 42px;
+    width: 320px;
+    font-size:12px;
+    font-family: Arial;
+}
+p a {
+	color: #ccc;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#caption span {
+	color: #C00;
+	font-weight: bold;
+}
+#caption2 span {
+	color: #C00;
+	font-weight: bold;
+}
+.fsForm{
+	margin:auto !important;
+	width:50% !important;
+}
+.picfront {
+	position: absolute;
+	top: 205px;
+	left: 195px;
+}
+.picleft {
+	position: absolute;
+	top: 205px;
+	left: 3px;
+}
+.pic2 {
+	position: absolute;
+	top: 205px;
+	left: 425px;
+}
+.pic2r {
+	position: absolute;
+	top: 205px;
+	left: 620px;
+}
+.picback {
+	position: relative; 
+}
+.border{
+	outline:3px solid #FFF;
+	border:2px solid #630;
+}
+.sponsors img{margin:10px 5px;border:solid 1px #FFF;}
+.facebook {width:85px;float:right;margin-top:10px;}
+.facebook a{color: #B62420;font-weight: bold;}
+.male{background-color:#ab978b}
+.female{background-color:#775440}
