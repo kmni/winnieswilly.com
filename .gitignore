@@ -16,6 +16,13 @@ local.properties
 .settings/
 .loadpath
 
+
+### Dreamweaver Excludes ###
+############################
+_notes/
+dwsync.xml
+
+
 # External tool builders
 .externalToolBuilders/
 
