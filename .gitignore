@@ -19,6 +19,7 @@ local.properties
 
 ### Dreamweaver Excludes ###
 ############################
+
 _notes/
 dwsync.xml
 
